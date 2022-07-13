@@ -26,7 +26,7 @@ tags:
 - ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
 - ::{ flag=US }:: [Gurbzy](https://osu.ppy.sh/users/12970596)
 - ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445)
-- ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186)
+- ::{ flag=US }:: [ur cute](https://osu.ppy.sh/users/9993348)
 - ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596)
 - ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603)
 - ::{ flag=US }:: [Sytho](https://osu.ppy.sh/users/4175698)
