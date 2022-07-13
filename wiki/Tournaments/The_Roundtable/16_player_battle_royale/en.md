@@ -7,7 +7,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **16 player battle royale** takes place the first day of the event. Players will be randomized into groups of 8, and the lowest scorer of each map will be eliminated. When both groups are narrowed down to 2 players, the finalists will compete in a 1v1 best of 13 match.
+[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **16 player battle royale** took place the first day of the event. Players were randomized into groups of 8, and the lowest scorer of each map was eliminated. When both groups narrowed down to 2 players, the finalists competed in a 1v1 best of 13 match.
 
 ## Prizes
 
@@ -42,7 +42,7 @@ tags:
 
 ### Battle royale rules
 
-The battle royale will proceed as follows:
+The battle royale proceeded as follows:
 
 - 16 players will be randomized into two groups of 8.
 - Each group will play through 7 maps. After each map, the lowest scoring user will be eliminated.

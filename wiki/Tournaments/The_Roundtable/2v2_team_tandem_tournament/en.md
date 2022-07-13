@@ -9,7 +9,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **2v2 team tandem tournament** takes place in the first half of the second day of the event. This tournament is a 2v2 single-elimination team tandem osu! tournament consisting of 4 teams of 4 players (2 players per osu! instance).
+[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **2v2 team tandem tournament** took place in the first half of the second day of the event. This tournament was a 2v2 single-elimination team tandem osu! tournament that consisted of 4 teams of 4 players (2 players per osu! instance).
 
 ## Prizes
 
@@ -46,7 +46,7 @@ tags:
 
 ### Match rules
 
-The matches will proceed as follows:
+The matches proceeded as follows:
 
 - Two teams will join a multiplayer room with supervision from an on-site tournament organizer.
 - When both teams are in the room and ready, the match will start.

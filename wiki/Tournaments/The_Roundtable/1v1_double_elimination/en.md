@@ -9,7 +9,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **1v1 double elimination tournament** takes place in the second half of the second day and the entirety of the third day of the event.
+[**The Roundtable**](/wiki/Tournaments/The_Roundtable)'s **1v1 double elimination tournament** took place in the second half of the second day and the entirety of the third day of the event.
 
 ## Prizes
 
@@ -49,7 +49,7 @@ tags:
 
 ### Match rules
 
-The matches will proceed as follows:
+The matches proceeded as follows:
 
 - Two players will join a multiplayer room with supervision from an on-site tournament organizer.
 - When both players are in the room and ready, the match will start.
