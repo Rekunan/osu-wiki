@@ -15,7 +15,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Physical prizes |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $727 |
 
 ## Participants
 

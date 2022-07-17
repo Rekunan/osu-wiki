@@ -13,11 +13,16 @@ tags:
 
 ## Prizes
 
+The Roundtable offered a $3927 cash prize pool to all participants.
+
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1st place profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $1727, 1st place profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $500, 2nd place profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $350, 3rd place profile badge |
+| *4th-8th place* | $150 each |
+| *9th-12th place* | $100 each |
+| *13th-16th place* | $50 each |
 
 ## Participants
 

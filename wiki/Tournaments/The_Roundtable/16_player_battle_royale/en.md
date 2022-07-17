@@ -13,7 +13,8 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $727, Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $272 |
 
 ## Participants
 
